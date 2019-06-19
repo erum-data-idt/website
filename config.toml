@@ -1,4 +1,19 @@
-baseURL = "http://example.org/"
+title = "ErUM-IDT"
+baseURL = "https://example.com"
 languageCode = "en-us"
-title = "My New Hugo Site"
 theme = "ananke"
+
+MetaDataFormat = "yaml"
+DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
+googleAnalytics = ""
+enableRobotsTXT = true
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[params]
+  background_color_class = "bg-black"
