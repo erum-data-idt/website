@@ -13,7 +13,7 @@ Either install for your favorite distribution or just get the all-in-one binary:
 You can start a hugo web server that on-the-fly build and deploys the website on your local machine:
 
 ```
-cd erum-data-website.git
+cd erum-data-website
 hugo server
 ```
 
