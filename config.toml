@@ -1,5 +1,10 @@
+
 baseURL = "/"
-relativeURLS = true
+
+# set this option to browse files in public/ locally
+# e.g. by building with `env HUGO_RELATIVEURLS=1  hugo`
+#relativeURLS = true
+
 languageCode = "en-us"
 title = "ErUM-IDT"
 theme = "minimal-bootstrap-hugo-theme"

@@ -21,6 +21,11 @@ hugo server
 
 To just build the static html content simply run `hugo` in the project
 directory. The content is then available in the `public/` directory.
+To browse the files locally, set the `relativeURLS` option e.g. by building with
+
+```
+env HUGO_RELATIVEURLS=1  hugo
+```
 
 # Further information
 
