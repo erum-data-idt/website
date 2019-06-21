@@ -7,45 +7,23 @@ baseURL = "/"
 
 languageCode = "en-us"
 title = "ErUM-IDT"
-theme = "minimal-bootstrap-hugo-theme"
+theme = "hugo-natrium-theme"
 
-[taxonomies]
-  tag = "tags"
+[params.logo]
+  url = "/idt-logo.png"
+  width = 50
+  height = 50
+  alt = "Logo"
 
-[permalinks]
-  post = "/:filename/"
-
-[params]
-  description = "Some description"
-  contentBackgroundColor = "#fff"
-  contentTextColor = "#212529"
-  contentLinkColor = "#007bff"
-  contentLinkHoverColor = "#0056b3"
-  navbarBackgroundColor = "#212529"
-  navbarLinkColor = "rgba(255, 255, 255, 0.75)"
-  navbarLinkHoverColor = "rgba(255, 255, 255, 1)"
-  wrapperMaxWidth = "800px"
-  customDateFormat = "Jan 2, 2006"
-  customCodeStyle = true
-  customBlockquoteStyle = true
-  showPostSummary = false
-  #googleAnalytics = "UA-123456789-1"
-  #cookieConsent = true
-  includeBootstrapJs = false
-  faviconSafariPinnedTabColor = "#5bbad5"
-  faviconMsApplicationTileColor = "#da532c"
-  faviconThemeColor = "#ffffff"
-
-[menu]
-  [[menu.nav]]
-  name = "News"
+[[menu.main]]
+  name = "Home"
   url = "/"
   weight = 1
-  [[menu.nav]]
-  name = "Research Areas"
-  url = "/research-areas/"
-  weight = 2
-  [[menu.nav]]
+  # [[menu.main]]
+  # name = "Research Areas"
+  # url = "/research-areas/"
+  # weight = 2
+  [[menu.main]]
   name = "Partners"
   url = "/partners/"
   weight = 3

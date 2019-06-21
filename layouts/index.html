@@ -1,16 +1,16 @@
-{{- define "main" -}}
+{{ partial "header.html" . }}
 
-{{ $homepage := "Home" }}
-{{ with .Site.Menus.nav }}
-  {{ range first 1 . }}
-    {{ $homepage = .Name }}
-  {{ end }}
-{{ end }}
+<main class="content">
 
-{{ .Content }}
+    <h1> ErUM-Data IDT </h1>
+    <h3> Innovative Digital Technologies for Research on Universe and Matter </h3>
 
-<h2>{{ $homepage }}</h2>
+    <h3> News </h3>
 
-{{ partial "post-list" . }}
+    <div class="article-content">
+        {{ partial "post-list" . }}
+    </div>
 
-{{- end -}}
+</main>
+
+{{ partial "footer.html" . }}
