@@ -95,10 +95,6 @@ blockquote {
   transition: transform 150ms ease-out;
 }
 
-.nav-logo:hover {
-  transform: scale(1.1);
-}
-
 .nav-logo img {
   display: block;
   max-height: 80px;
