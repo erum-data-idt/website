@@ -1,0 +1,17 @@
+[footerRSS]
+other = "RSS-Feed"
+
+[siteNotice]
+other = "Impressum"
+
+[privacyPolicy]
+other = "Datenschutz"
+
+[categories]
+other = "Kategorien"
+
+[tags]
+other = "Tags"
+
+[errorMessage]
+other = "Hier ist nichts."
