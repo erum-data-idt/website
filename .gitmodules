@@ -1,15 +1,6 @@
-[submodule "themes/ananke"]
-	path = themes/ananke
-	url = https://github.com/budparr/gohugo-theme-ananke.git
-[submodule "themes/vanilla-bootstrap-hugo-theme"]
-	path = themes/vanilla-bootstrap-hugo-theme
-	url = https://github.com/zwbetz-gh/vanilla-bootstrap-hugo-theme.git
 [submodule "themes/minimal-bootstrap-hugo-theme"]
 	path = themes/minimal-bootstrap-hugo-theme
 	url = https://github.com/zwbetz-gh/minimal-bootstrap-hugo-theme.git
-[submodule "themes/hugo-bootstrap"]
-	path = themes/hugo-bootstrap
-	url = https://github.com/Xzya/hugo-bootstrap.git
 [submodule "themes/hugo-natrium-theme"]
 	path = themes/hugo-natrium-theme
 	url = https://github.com/mobybit/hugo-natrium-theme
