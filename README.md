@@ -27,6 +27,8 @@ To browse the files locally, set the `relativeURLS` option e.g. by building with
 env HUGO_RELATIVEURLS=1  hugo
 ```
 
+The build directory can be changed via `HUGO_PUBLISHDIR=path/to/build/dir`.
+
 # Further information
 
 - https://gohugo.io/documentation/
