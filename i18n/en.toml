@@ -7,6 +7,9 @@ other = "Imprint"
 [privacyPolicy]
 other = "Privacy Policy"
 
+[code]
+other = "Code"
+
 [categories]
 other = "Categories"
 

@@ -7,6 +7,9 @@ other = "Impressum"
 [privacyPolicy]
 other = "Datenschutz"
 
+[code]
+other = "Code"
+
 [categories]
 other = "Kategorien"
 
