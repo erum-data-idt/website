@@ -1,7 +1,7 @@
 # Check out the git repository
 
 ```
-git clone --recursive git@gitlab.physik.uni-muenchen.de:Nikolai.Hartmann/erum-data-website.git
+git clone --recursive <this-repository>
 ```
 
 # Get Hugo
