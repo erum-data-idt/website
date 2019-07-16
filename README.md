@@ -6,7 +6,8 @@ git clone --recursive <this-repository>
 
 # Get Hugo
 
-Either install for your favorite distribution or just get the all-in-one binary: https://github.com/gohugoio/hugo/releases
+You need **Hugo v0.48** or newer. The easiest way is to just download the latest
+all-in-one binary: https://github.com/gohugoio/hugo/releases.
 
 # Test/Develop website
 
