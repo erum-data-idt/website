@@ -30,6 +30,22 @@ env HUGO_RELATIVEURLS=1  hugo
 
 The build directory can be changed via `HUGO_PUBLISHDIR=path/to/build/dir`.
 
+Example for a clean build and upload:
+
+```
+rm -r public
+hugo
+rsync -n -avr --delete public/ <webserver-url>:<webserver-path>/
+```
+
+When everything looks fine run the command without `-n` (dry-run)
+
+# URLs
+
+The website is available via
+- https://www.erum-data-idt.de
+- https://www.erum-data.de
+
 # Further information
 
 - https://gohugo.io/documentation/
