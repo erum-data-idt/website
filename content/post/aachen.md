@@ -6,6 +6,6 @@ draft: false
 
 After having a successful meeting in Munich, we meet in Aachen parallel to DPG. 
 
-This is a great opportunity to meet our collaborators as well as whole particle phyisics society in Germany. 
+This is a great opportunity to meet our collaborators as well as whole particle physics society in Germany. 
 
 More infos can be found on the [event page](https://indico.physik.uni-muenchen.de/event/7/).

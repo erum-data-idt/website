@@ -6,6 +6,6 @@ draft: false
 
 Our second collaboration meeting will be at KIT Campus North on September 30th and October 1st.
 
-This is excatly one year after the start of the project.
+This is exactly one year after the start of the project.
 
 The program and the registration page can be found on the [event page](https://indico.physik.uni-muenchen.de/event/22/).
