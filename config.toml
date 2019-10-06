@@ -7,7 +7,7 @@ baseURL = "/"
 
 languageCode = "en-us"
 title = "ErUM-IDT"
-theme = "hugo-natrium-theme"
+theme = "hugo-lithium-theme"
 
 [params.logo]
   url = "/idt-logo.png"
@@ -19,6 +19,7 @@ theme = "hugo-natrium-theme"
   name = "Home"
   url = "/"
   weight = 1
+  # seems to be automatically added
   # [[menu.main]]
   # name = "Research Areas"
   # url = "/research-areas/"
