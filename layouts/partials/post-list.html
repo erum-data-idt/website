@@ -1,4 +1,4 @@
-{{ range where .Pages.ByPublishDate.Reverse "Section" "post" }}
+{{ range where .Site.RegularPages.ByPublishDate.Reverse "Section" "post" }}
   <p>
     <a href="{{ .Permalink }}">{{ .Title | markdownify }}</a>
     {{ $customDateFormat := "January 2, 2006" }}
