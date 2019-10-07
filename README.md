@@ -62,4 +62,5 @@ The website is available via
 
 - https://gohugo.io/documentation/
 - https://themes.gohugo.io/
-
+- https://github.com/liwenyip/hugo-easy-gallery - for making image galleries
+  (included in this repository)

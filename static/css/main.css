@@ -160,6 +160,11 @@ blockquote {
   transition: border-color 600ms;
 }
 
+/* No underline for links inside box (for gallery images) */
+.box a {
+    border-bottom: none;
+}
+
 .article-content a:hover,
 .article-content a:active {
   border-color: #606060;
