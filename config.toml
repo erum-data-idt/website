@@ -27,3 +27,7 @@ theme = "hugo-lithium-theme"
   name = "Research Areas"
   url = "/research-areas/"
   weight = 3
+  [[menu.main]]
+  name = "Logo"
+  url = "/logo/"
+  weight = 4
