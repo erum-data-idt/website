@@ -4,10 +4,22 @@
 git clone --recursive <this-repository>
 ```
 
+# Update the repository
+
+After updating the repository - e.g. with `git pull` - it might be nescessary to
+run the following commands to update the submodules in the [themes](themes)
+folder.
+
+```
+git submodule init
+git submodule update
+```
+
 # Get Hugo
 
-You need **Hugo v0.48** or newer. The easiest way is to just download the latest
-all-in-one binary: https://github.com/gohugoio/hugo/releases.
+You need **Hugo v0.57.0** or newer. The easiest way is to just download the
+latest all-in-one binary: https://github.com/gohugoio/hugo/releases/latest. On
+Linux (64bit) choose `hugo_extended_<version>_Linux-64bit.tar.gz`.
 
 # Test/Develop website
 
