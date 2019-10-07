@@ -2,8 +2,6 @@
 title: "Research Areas"
 omit_header_text: true
 draft: false
-menu:
-  main: {}
 ---
 
 ----------------------------

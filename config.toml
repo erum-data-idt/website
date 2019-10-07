@@ -19,12 +19,11 @@ theme = "hugo-lithium-theme"
   name = "Home"
   url = "/"
   weight = 1
-  # seems to be automatically added
-  # [[menu.main]]
-  # name = "Research Areas"
-  # url = "/research-areas/"
-  # weight = 2
   [[menu.main]]
   name = "Partners"
   url = "/partners/"
+  weight = 2
+  [[menu.main]]
+  name = "Research Areas"
+  url = "/research-areas/"
   weight = 3
