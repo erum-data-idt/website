@@ -1,4 +1,5 @@
-{{ range where .Site.RegularPages.ByPublishDate.Reverse "Section" "post" }}
+{{ $paginator := .Paginate (where .Site.RegularPages.ByPublishDate.Reverse  "Section" "post") 5 }}
+{{ range $paginator.Pages }}
   <p>
     <a href="{{ .Permalink }}">{{ .Title | markdownify }}</a>
     {{ $customDateFormat := "January 2, 2006" }}
@@ -11,3 +12,4 @@
     {{ end }}
   </p>
 {{ end }}
+{{ template "_internal/pagination.html" . }}
