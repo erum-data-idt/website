@@ -1,4 +1,4 @@
-{{ $paginator := .Paginate (where .Site.RegularPages.ByPublishDate.Reverse  "Section" "post") 5 }}
+{{ $paginator := .Paginate (where .Site.RegularPages.ByPublishDate.Reverse  "Section" "post") 4 }}
 {{ range $paginator.Pages }}
   <p>
     <a href="{{ .Permalink }}">{{ .Title | markdownify }}</a>
