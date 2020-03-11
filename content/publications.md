@@ -17,3 +17,4 @@
 # Posters
 
 * Max Fischer: [Distributed Caching in the WLCG](https://indi.to/K3HD6), [CHEP 2019][1]
+* Marcelo Vogel: [Standalone containers with ATLAS offline software](https://indico.cern.ch/event/773049/contributions/3473850), [CHEP 2019][1]
