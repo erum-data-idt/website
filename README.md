@@ -47,7 +47,7 @@ Example for a clean build and upload:
 ```
 rm -r public
 hugo
-rsync -n -avr --delete public/ <webserver-url>:<webserver-path>/
+rsync -n -avr --groupmap="*:web-erum" --chmod="g+w" --delete public/ <webserver-url>:<webserver-path>/
 ```
 
 When everything looks fine run the command without `-n` (dry-run)
