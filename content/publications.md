@@ -22,7 +22,18 @@ deformation in heavy ion collisions, [arXiv:1906.06429
 [1]: https://indico.cern.ch/event/773049/
 <!-- HOW 2019 -->
 [2]: https://indico.cern.ch/event/759388/
+<!-- Quark Matter 2019 -->
+[3]: https://indico.cern.ch/event/792436/
+<!-- Hirschegg 2019 -->
+[4]: https://theory.gsi.de/hirschegg/2019/
 
+
+* Jan Steinheimer: [A machine learning study to identify spinodal clumping in high energy nuclear collisions](https://indi.to/drt7X), [Quark Matter 2019][3]
+* Kai Zhou: [Regressive and generative neural networks for scalar field theory](https://indi.to/Jh8Vc), [Quark Matter 2019][3]
+* Kai Zhou: [Perspectives of Deep learning techniques in Lattice 1+1d Scalar Field Theory](https://indi.to/bdsx6), [AISIS 2019](https://indico.cern.ch/event/781223)
+* Jan Steinheimer: [Effects of Statistical Particlization and Hadronic Rescattering on Fluctuations and Correlations](https://theory.gsi.de/hirschegg/2019/talks/Thu/Steinheimer.pdf), [Hirschegg 2019][4]
+* Kai Zhou: [Perspectives of Deep learning techniques in Lattice 1+1d Scalar Field Theory](https://theory.gsi.de/hirschegg/2019/talks/Tue/Zhou.pdf), [Hirschegg 2019][4]
+* Kai Zhou: [Regressive and generative neural networks for scalar field theory](https://events.fias.science/event/21/contribution/37), [AI for Science 2019](https://events.fias.science/event/21/)
 * Manuel Giffels: [Effective Dynamic Integration and Utilization of Heterogenous Compute Resources](https://indi.to/wF9mw), [CHEP 2019][1]
 * Max Fischer: [Lightweight dynamic integration of opportunistic resources](https://indi.to/jxVtY), [CHEP 2019][1]
 * Christian Schmitt: [Highly Performant, Deep Neural Networks with sub-microsecond latency on FPGAs for Trigger Applications](https://indico.cern.ch/event/773049/contributions/3474319/attachments/1939652/3215560/2019_11_07_CHEP.pdf), [CHEP 2019][1]
