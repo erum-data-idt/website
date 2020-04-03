@@ -28,7 +28,7 @@ theme = "hugo-lithium-theme"
   url = "/research-areas/"
   weight = 3
   [[menu.main]]
-  name = "Talks"
+  name = "Publications and Talks"
   url = "/publications/"
   weight = 4
   [[menu.main]]

@@ -1,3 +1,21 @@
+# Publications
+
+* Y. L. Du, K. Zhou, J. Steinheimer, L. G. Pang, A. Motornenko, H. S. Zong, X.
+N. Wang and H. Stöcker, Identifying the nature of the QCD transition in
+relativistic collision of heavy nuclei with deep learning, [arXiv:1910.11530
+[hep-ph]](https://arxiv.org/abs/1910.11530)
+* J. Steinheimer, L. Pang, K. Zhou, V. Koch, J. Randrup and H. Stoecker, A
+machine learning study to identify spinodal clumping in high energy nuclear
+collisions, [JHEP 1912, 122 (2019)](https://doi.org/10.1007/JHEP12(2019)122)
+* R. Lenkiewicz, A. Meistrenko, H. van Hees, K. Zhou, Z. Xu and C. Greiner,
+Kinetic approach to a relativistic BEC with inelastic processes, [Phys. Rev.
+D100, no. 9, 091501
+(2019)](https://link.aps.org/doi/10.1103/PhysRevD.100.091501)
+* L. Pang, K. Zhou and X. Wang, Interpretable deep learning for nuclear
+deformation in heavy ion collisions, [arXiv:1906.06429
+[nucl-th]](https://arxiv.org/abs/1906.06429)
+
+
 # Talks
 
 <!-- CHEP 2019 -->
