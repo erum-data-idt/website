@@ -27,7 +27,8 @@ deformation in heavy ion collisions, [arXiv:1906.06429
 <!-- Hirschegg 2019 -->
 [4]: https://theory.gsi.de/hirschegg/2019/
 
-
+* Horst Stöcker: [MAGIC-Matter in Astrophysics, Gravitational waves, and Ion Collisions](https://indico.ihep.ac.cn/event/9872/session/4/contribution/213), [The 17th National Conference on Nuclear Physics and the 13th Member Congress](https://indico.ihep.ac.cn/event/9872/)
+* Horst Stöcker: [MAGIC-Matter in Astrophysics, Gravitational waves, and Ion Collisions](https://indico.cern.ch/event/820556/attachments/1946000/3260382/CCNU_nov_11mikloslarry70_compressed.pdf), [Symposium on Contemporary QCD Physics and Relativistic Nuclear Collisions](https://indico.cern.ch/event/820556/)
 * Jan Steinheimer: [A machine learning study to identify spinodal clumping in high energy nuclear collisions](https://indi.to/drt7X), [Quark Matter 2019][3]
 * Kai Zhou: [Regressive and generative neural networks for scalar field theory](https://indi.to/Jh8Vc), [Quark Matter 2019][3]
 * Kai Zhou: [Perspectives of Deep learning techniques in Lattice 1+1d Scalar Field Theory](https://indi.to/bdsx6), [AISIS 2019](https://indico.cern.ch/event/781223)
