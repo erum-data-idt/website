@@ -14,6 +14,18 @@ D100, no. 9, 091501
 * L. Pang, K. Zhou and X. Wang, Interpretable deep learning for nuclear
 deformation in heavy ion collisions, [arXiv:1906.06429
 [nucl-th]](https://arxiv.org/abs/1906.06429)
+* T. Bister, M. Erdmann, J. Glombitza, N. Langner, J. Schulte, M. Wirtz,
+Identification of Patterns in Cosmic-Ray Arrival Directions using Dynamic Graph
+Convolutional Neural Networks,
+[arXiv:2003.13038](https://arxiv.org/abs/2003.13038)
+* M. Erdmann, F. Schlueter, R. Smida, Classification and Recovery of Radio
+Signals from Cosmic Ray Induced Air Showers with Deep Learning, [JINST 14 (2019)
+P04005](https://dx.doi.org/10.1088/1748-0221/14/04/P04005),
+[arXiv:1901.04079](https://arxiv.org/abs/1901.04079)
+* M. Erdmann, E. Geiser, Y. Rath, M. Rieger, Lorentz Boost Networks: Autonomous
+Physics-Inspired Feature Engineering, [JINST 14 (2019)
+P06006](https://dx.doi.org/10.1088/1748-0221/14/06/P06006),
+[arXiv:1812.09722](https://arxiv.org/abs/1812.09722)
 
 
 # Talks
