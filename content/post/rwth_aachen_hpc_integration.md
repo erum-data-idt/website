@@ -6,7 +6,7 @@ draft: false
 
 {{< load-photoswipe >}}
 
-We are happy to annouce that [COBalD/TARDIS](https://matterminers.github.io/) 
+We are happy to announce that [COBalD/TARDIS](https://matterminers.github.io/) 
 developed at the Karlsruhe Institute of Technology (KIT) and funded within the 
 scope of ErUM-Data IDT is now also used for the transparent, dynamic and 
 on-demand integration of [CLAIX](https://www.itc.rwth-aachen.de/cms/IT-Center/Forschung-Projekte/High-Performance-Computing/~eucm/Infrastruktur/?lidx=1) 
