@@ -13,3 +13,4 @@
 * Workshop *Computingstrategie in der HL-LHC-Ära* (online) May 2020: [event page](https://indico.physik.uni-muenchen.de/event/33/)
 * Online meeting *Computing for analysis* April 2020: [event page](https://indico.physik.uni-muenchen.de/event/35/)
 * Area A+B video meeting March 2020: [event page](https://indico.physik.uni-muenchen.de/event/31/)
+* COBalD/TARDIS workshop Karlsruhe June 2019: [event page](https://indico.scc.kit.edu/event/580/)
