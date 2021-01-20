@@ -19,19 +19,23 @@ theme = "hugo-lithium-theme"
   name = "Home"
   url = "/"
   weight = 1
-  [[menu.main]]
+[[menu.main]]
   name = "Partners"
   url = "/partners/"
   weight = 2
-  [[menu.main]]
-  name = "Research Areas"
-  url = "/research-areas/"
-  weight = 3
-  [[menu.main]]
-  name = "Publications and Talks"
-  url = "/publications/"
+# [[menu.main]]
+#   name = "Research Areas"
+#   url = "/research-areas/"
+#   weight = 3
+# [[menu.main]]
+#   name = "Publications and Talks"
+#   url = "/publications/"
+#   weight = 4
+[[menu.main]]
+  name = "Activities"
+  url = "/activities/"
   weight = 4
-  [[menu.main]]
+[[menu.main]]
   name = "Logo"
   url = "/logo/"
   weight = 5
