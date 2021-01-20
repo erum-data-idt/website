@@ -6,4 +6,4 @@ draft: false
 
 We will have a virtual collaboration meeting on September 21st and 22nd.
 
-More details will be communicated later.
+More details can be found on the [indico page](https://indico.physik.uni-muenchen.de/event/60/)
