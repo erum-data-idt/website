@@ -1,5 +1,5 @@
 ---
-title: "Remote collaboration meeting report"
+title: "Collaboration discussed their projects online"
 date: 2021-05-17
 draft: false
 ---
