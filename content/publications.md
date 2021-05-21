@@ -1,5 +1,11 @@
 # Publications
 
+* E. Buhmann, S. Diefenbacher, E. Eren, F. Gaede, G. Kasieczka, A. Korol, K.
+Krüger, Decoding Photons: Physics in the Latent Space of a BIB-AE Generative
+Network, [arXiv:2102.12491](https://arxiv.org/abs/2102.12491)
+* E. Buhmann, S. Diefenbacher, E. Eren, F. Gaede, G. Kasieczka, A. Korol, K.
+Krüger, Getting High: High Fidelity Simulation of High Granularity
+Calorimeters with High Speed, [arXiv:2005.05334](https://arxiv.org/abs/2005.05334)
 * Y. L. Du, K. Zhou, J. Steinheimer, L. G. Pang, A. Motornenko, H. S. Zong, X.
 N. Wang and H. Stöcker, Identifying the nature of the QCD transition in
 relativistic collision of heavy nuclei with deep learning, [arXiv:1910.11530
@@ -38,7 +44,19 @@ P06006](https://dx.doi.org/10.1088/1748-0221/14/06/P06006),
 [3]: https://indico.cern.ch/event/792436/
 <!-- Hirschegg 2019 -->
 [4]: https://theory.gsi.de/hirschegg/2019/
+<!-- ML4Jets 2020 -->
+[5]: https://indico.cern.ch/event/809820/
+<!-- IML Workshop 2020 -->
+[6]: https://indico.cern.ch/event/852553/
+<!-- VCHEP 2001 -->
+[7]: https://indico.cern.ch/event/948465/
 
+* Erik Buhmann: [Decoding Photons: Physics in the Latent Space of a BIB-AE Generative Network](https://indico.cern.ch/event/948465/contributions/4324139/), [VCHEP 2021][7]
+* Sascha Diefenbacher: [Fast and Accurate Electromagnetic and Hadronic Showers from Generative Models](https://indico.cern.ch/event/948465/contributions/4323713/), [VCHEP 2021][7]
+* Engin Eren: [High Fidelity Simulation of High Granularity Calorimeters with High Speed](https://indico.cern.ch/event/995633/contributions/4272538/), [LCWS 2021](https://indico.cern.ch/event/995633/)
+* Engin Eren: [High Fidelity Simulation of  High Granularity Calorimeters  with High Speed](https://indico.cern.ch/event/852553/contributions/4059796/), [IML Workshop 2020][6]
+* Erik Buhmann: [Deep Learning based Energy Reconstruction for the CALICE AHCAL](https://indico.cern.ch/event/809820/contributions/3632646/), [ML4Jets 2020][5]
+* Engin Eren: [Generative Models For High Granularity Calorimeters](https://indico.cern.ch/event/809820/contributions/3632586/), [ML4Jets 2020][5]
 * Horst Stöcker: [MAGIC-Matter in Astrophysics, Gravitational waves, and Ion Collisions](https://indico.ihep.ac.cn/event/9872/session/4/contribution/213), [The 17th National Conference on Nuclear Physics and the 13th Member Congress](https://indico.ihep.ac.cn/event/9872/)
 * Horst Stöcker: [MAGIC-Matter in Astrophysics, Gravitational waves, and Ion Collisions](https://indico.cern.ch/event/820556/attachments/1946000/3260382/CCNU_nov_11mikloslarry70_compressed.pdf), [Symposium on Contemporary QCD Physics and Relativistic Nuclear Collisions](https://indico.cern.ch/event/820556/)
 * Jan Steinheimer: [A machine learning study to identify spinodal clumping in high energy nuclear collisions](https://indi.to/drt7X), [Quark Matter 2019][3]
@@ -58,5 +76,6 @@ P06006](https://dx.doi.org/10.1088/1748-0221/14/06/P06006),
 
 # Posters
 
+* [Generative models for particle shower simulation in fundamental physics](https://simdl.github.io/files/31.pdf), Deep Learning for Simulation @ ICLR
 * Max Fischer: [Distributed Caching in the WLCG](https://indi.to/K3HD6), [CHEP 2019][1]
 * Marcelo Vogel: [Standalone containers with ATLAS offline software](https://indico.cern.ch/event/773049/contributions/3473850), [CHEP 2019][1]
