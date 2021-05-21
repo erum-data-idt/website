@@ -48,12 +48,16 @@ P06006](https://dx.doi.org/10.1088/1748-0221/14/06/P06006),
 [5]: https://indico.cern.ch/event/809820/
 <!-- IML Workshop 2020 -->
 [6]: https://indico.cern.ch/event/852553/
-<!-- VCHEP 2001 -->
+<!-- vCHEP 2001 -->
 [7]: https://indico.cern.ch/event/948465/
 
-* Erik Buhmann: [Decoding Photons: Physics in the Latent Space of a BIB-AE Generative Network](https://indico.cern.ch/event/948465/contributions/4324139/), [VCHEP 2021][7]
-* Sascha Diefenbacher: [Fast and Accurate Electromagnetic and Hadronic Showers from Generative Models](https://indico.cern.ch/event/948465/contributions/4323713/), [VCHEP 2021][7]
+* Erik Buhmann: [Decoding Photons: Physics in the Latent Space of a BIB-AE Generative Network](https://indico.cern.ch/event/948465/contributions/4324139/), [vCHEP 2021][7]
+* Sascha Diefenbacher: [Fast and Accurate Electromagnetic and Hadronic Showers from Generative Models](https://indico.cern.ch/event/948465/contributions/4323713/), [vCHEP 2021][7]
+* Nikolai Hartmann: [Columnar data analysis with ATLAS analysis formats](https://indico.cern.ch/event/948465/contributions/4324123/), [vCHEP 2021][7]
+* Hosein Hashemi: [Pixel Detector Background Generation using Generative Adversarial Networks at Belle II](https://indico.cern.ch/event/948465/contributions/4324142/), [vCHEP 2021][7]
 * Engin Eren: [High Fidelity Simulation of High Granularity Calorimeters with High Speed](https://indico.cern.ch/event/995633/contributions/4272538/), [LCWS 2021](https://indico.cern.ch/event/995633/)
+* Hosein Hashemi: [Pixel Detector Background Generation using Generative Adversarial Networks at Belle II](https://indico.cern.ch/event/852553/contributions/4059068/), [IML Workshop 2020][6]
+* Nikolai Hartmann: [Selective background MC simulation with graph neural networks at Belle II](https://indico.cern.ch/event/852553/contributions/4059072/), [IML Workshop 2020][6]
 * Engin Eren: [High Fidelity Simulation of  High Granularity Calorimeters  with High Speed](https://indico.cern.ch/event/852553/contributions/4059796/), [IML Workshop 2020][6]
 * Erik Buhmann: [Deep Learning based Energy Reconstruction for the CALICE AHCAL](https://indico.cern.ch/event/809820/contributions/3632646/), [ML4Jets 2020][5]
 * Engin Eren: [Generative Models For High Granularity Calorimeters](https://indico.cern.ch/event/809820/contributions/3632586/), [ML4Jets 2020][5]
