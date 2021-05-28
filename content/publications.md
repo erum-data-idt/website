@@ -51,6 +51,7 @@ P06006](https://dx.doi.org/10.1088/1748-0221/14/06/P06006),
 <!-- vCHEP 2001 -->
 [7]: https://indico.cern.ch/event/948465/
 
+* René Caspart: [Transparent Integration of Opportunistic Resources into the WLCG Compute Infrastructure](https://indico.cern.ch/event/948465/contributions/4324019/), [vCHEP 2021][7]
 * R. Florian von Cube: [Opportunistic transparent extension of a WLCG Tier 2 center using HPC resources](https://indico.cern.ch/event/948465/contributions/4324021/), [vCHEP 2021][7]
 * Erik Buhmann: [Decoding Photons: Physics in the Latent Space of a BIB-AE Generative Network](https://indico.cern.ch/event/948465/contributions/4324139/), [vCHEP 2021][7]
 * Sascha Diefenbacher: [Fast and Accurate Electromagnetic and Hadronic Showers from Generative Models](https://indico.cern.ch/event/948465/contributions/4323713/), [vCHEP 2021][7]
