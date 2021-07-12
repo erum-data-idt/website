@@ -1,5 +1,9 @@
 # Publications
 
+* L. Benato, E. Buhmann, M. Erdmann, P. Fackeldey, J. Glombitza, N. Hartmann, G.
+Kasieczka, W. Korcari, T. Kuhr, J. Steinheimer, H. Stöcker, T. Plehn, K. Zhou,
+Shared Data and Algorithms for Deep Learning in Fundamental Physics,
+[arXiv:2107.00656](https://arxiv.org/abs/2107.00656)
 * E. Buhmann, S. Diefenbacher, E. Eren, F. Gaede, G. Kasieczka, A. Korol, K.
 Krüger, Decoding Photons: Physics in the Latent Space of a BIB-AE Generative
 Network, [arXiv:2102.12491](https://arxiv.org/abs/2102.12491)
@@ -50,7 +54,10 @@ P06006](https://dx.doi.org/10.1088/1748-0221/14/06/P06006),
 [6]: https://indico.cern.ch/event/852553/
 <!-- vCHEP 2001 -->
 [7]: https://indico.cern.ch/event/948465/
+<!-- ML4Jets 2021 -->
+[8]: https://indico.cern.ch/event/980214/
 
+* William Korcari: [Shared Data and Algorithms for Deep Learning in Fundamental Physics](https://indico.cern.ch/event/980214/contributions/4413659/), [ML4Jets 2021][8]
 * René Caspart: [Transparent Integration of Opportunistic Resources into the WLCG Compute Infrastructure](https://indico.cern.ch/event/948465/contributions/4324019/), [vCHEP 2021][7]
 * R. Florian von Cube: [Opportunistic transparent extension of a WLCG Tier 2 center using HPC resources](https://indico.cern.ch/event/948465/contributions/4324021/), [vCHEP 2021][7]
 * Erik Buhmann: [Decoding Photons: Physics in the Latent Space of a BIB-AE Generative Network](https://indico.cern.ch/event/948465/contributions/4324139/), [vCHEP 2021][7]
