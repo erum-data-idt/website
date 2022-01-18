@@ -1,8 +1,10 @@
+# Publications and talks
+
 * [Publications](#publications)
 * [Talks](#talks)
 * [Posters](#posters)
 
-# Publications
+## Publications
 
 * M. O.K, K. Zhou, J. Steinheimer, A. Redelbach and H. Stoecker, An equation-of-state-meter for CBM using PointNet, [JHEP 10(2021)184](https://doi.org/10.1007/JHEP10(2021)184)
 * S. Shi, L. Wang and K. Zhou, Rethinking the ill-posedness of the spectral function reconstruction -- why is it fundamentally hard and how Artificial Neural Networks can help, [arXiv:2201.02564](https://arxiv.org/abs/2201.02564)
@@ -55,7 +57,7 @@ P06006](https://dx.doi.org/10.1088/1748-0221/14/06/P06006),
 [arXiv:1812.09722](https://arxiv.org/abs/1812.09722)
 
 
-# Talks
+## Talks
 
 <!-- CHEP 2019 -->
 [1]: https://indico.cern.ch/event/773049/
@@ -104,7 +106,7 @@ P06006](https://dx.doi.org/10.1088/1748-0221/14/06/P06006),
 * Thomas Kuhr: [Generation of Belle II Pixel Detector Background Data with a GAN](https://indico.cern.ch/event/773049/contributions/3474723/attachments/1937473/3211247/BelleII_GAN.pdf), [CHEP 2019][1]
 * Thomas Kuhr: [Collaborative Research Project - Innovative Digital Technologies for Research on Universe and Matter](https://indico.cern.ch/event/759388/contributions/3302384/attachments/1816684/2969402/ErUM-Data-IDT.pdf), [HOW 2019][2]
 
-# Posters
+## Posters
 
 * [Generative models for particle shower simulation in fundamental physics](https://simdl.github.io/files/31.pdf), Deep Learning for Simulation @ ICLR
 * Max Fischer: [Distributed Caching in the WLCG](https://indi.to/K3HD6), [CHEP 2019][1]
