@@ -1,5 +1,22 @@
+* [Publications](#publications)
+* [Talks](#talks)
+* [Posters](#posters)
+
 # Publications
 
+* M. O.K, K. Zhou, J. Steinheimer, A. Redelbach and H. Stoecker, An equation-of-state-meter for CBM using PointNet, [JHEP 10(2021)184](https://doi.org/10.1007/JHEP10(2021)184)
+* S. Shi, L. Wang and K. Zhou, Rethinking the ill-posedness of the spectral function reconstruction -- why is it fundamentally hard and how Artificial Neural Networks can help, [arXiv:2201.02564](https://arxiv.org/abs/2201.02564)
+* S. Soma, L. Wang, S. Shi and K. Zhou, Neural network reconstruction of the dense matter equation of state from neutron star observables, [arXiv:2201.01756](https://arxiv.org/abs/2201.01756)
+* L. Wang, S. Shi and K. Zhou, Automatic differentiation approach for reconstructing spectral functions with neural networks, accepted at NeurIPS2021 workshop, [arXiv:2112.06206](https://arxiv.org/abs/2112.06206)
+* L. Wang, S. Shi and K. Zhou, Reconstructing spectral functions via automatic differentiation, [arXiv:2111.14760](https://arxiv.org/abs/2111.14760)
+* Y.S. Zhao, L. Wang, K. Zhou and X.G. Huang, Detecting Chiral Magnetic Effect via Deep Learning, [arXiv:2105.13761](https://arxiv.org/abs/2105.13761)
+* Y. Wang, F. Li, Q. Li, H. Lue and K. Zhou, Finding signatures of the nuclear symmetry energy in heavy-ion collisions with deep learning, [Phys. Lett. B 822(2021)136669](https://doi.org/10.1016/j.physletb.2021.136669)
+* S. Shi, K. Zhou, J. Zhao, S. Mukherjee and P. Zhuang, Heavy Quark potential in quark-gluon plasma: deep neural networks meets lattice quantum chromodynamics, [arXiv:2105.07862](https://arxiv.org/abs/2105.07862)
+* L. Jiang, L. Wang and K. Zhou, Deep learning stochastic processes with QCD phase transition, [Phy. Rev. D103(2021)11,116023](https://doi.org/10.1103/PhysRevD.103.116023)
+* K. Taradiy, K. Zhou, J. Steinheimer, R. V.Poberezhnyuk, V. Vovchenko and H. Stoecker, Machine learning based approach to fluid dynamics, [arXiv:2106.02841](https://arxiv.org/abs/arXiv:2106.02841)
+* M. O.K, J. Steinheimer, K. Zhou, A. Redelbach and H. Stoecker, Deep learning based impact parameter determination for the CBM experiment, [Particles 4(2021)1, 47-52](https://doi.org/10.3390/particles4010006)
+* M. O.K, J. Steinheimer, K. Zhou, A. Redelbach and H. Stoecker, A fast centrality-meter for heavy-ion collisions at the CBM experiment, [Phys. Lett. B 811(2020) 135872](https://doi.org/10.1016/j.physletb.2020.135872)
+* P. Thaprasop, K. Zhou, J. Steinheimer and C. Herold, Unsupervised Outlier detection in heavy-ion collisions, [Phys. Scripta 96(2021)6, 064003](https://doi.org/10.1088/1402-4896/abf214)
 * L. Benato, E. Buhmann, M. Erdmann, P. Fackeldey, J. Glombitza, N. Hartmann, G.
 Kasieczka, W. Korcari, T. Kuhr, J. Steinheimer, H. Stöcker, T. Plehn, K. Zhou,
 Shared Data and Algorithms for Deep Learning in Fundamental Physics,
