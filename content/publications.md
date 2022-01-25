@@ -6,6 +6,9 @@
 
 ## Publications
 
+* T. Bister, M. Erdmann, U. Köthe, J. Schulte, Inference of cosmic-ray source properties by conditional invertible neural networks, [arXiv:2110.09493](https://arxiv.org/abs/2110.09493)
+* M. Erdmann, J. Glombitza, G. Kasieczka, U. Klemradt, Deep Learning for Physics Research, World Scientific, [ISBN: 978-981-123-745-4](https://doi.org/10.1142/12294), [www.deeplearningphysics.org](http://www.deeplearningphysics.org)
+* The Pierre Auger Collaboration, Deep-Learning based Reconstruction of the Shower Maximum Xmax using the Water-Cherenkov Detectors of the Pierre Auger Observatory, [2021 JINST 16 P07019](https://doi.org/10.1088/1748-0221/16/07/P07019)
 * M. O.K, K. Zhou, J. Steinheimer, A. Redelbach and H. Stoecker, An equation-of-state-meter for CBM using PointNet, [JHEP 10(2021)184](https://doi.org/10.1007/JHEP10(2021)184)
 * S. Shi, L. Wang and K. Zhou, Rethinking the ill-posedness of the spectral function reconstruction -- why is it fundamentally hard and how Artificial Neural Networks can help, [arXiv:2201.02564](https://arxiv.org/abs/2201.02564)
 * S. Soma, L. Wang, S. Shi and K. Zhou, Neural network reconstruction of the dense matter equation of state from neutron star observables, [arXiv:2201.01756](https://arxiv.org/abs/2201.01756)
@@ -75,7 +78,20 @@ P06006](https://dx.doi.org/10.1088/1748-0221/14/06/P06006),
 [7]: https://indico.cern.ch/event/948465/
 <!-- ML4Jets 2021 -->
 [8]: https://indico.cern.ch/event/980214/
+<!-- ACAT 2021 -->
+[9]: https://indico.cern.ch/event/855454/
 
+* Peter Fackeldey, et al, [Going fast on a small-size computing cluster](https://indico.cern.ch/event/855454/contributions/4605009/), [ACAT 2021][9]
+* Teresa Bister, et al, [Inference of astrophysical parameters with a conditional Invertible Neural Network](https://indico.cern.ch/event/855454/contributions/4603623/), [ACAT 2021][9]
+* Martin Erdmann, et al., [Autoencoder-extended Conditional Invertible Neural Networks for Unfolding Signal Traces](https://indico.cern.ch/event/855454/contributions/4598446/), [ACAT 2021][9]
+* Benjamin Fischer, et al, [Vectorised Neutrino Reconstruction by Computing Graphs](https://indico.cern.ch/event/855454/contributions/4596736/), [ACAT 2021][9]
+* Benjamin Fischer, et al., [Adversarial Neural Network based shape calibrations of observables for jet-tagging at CMS](https://indico.cern.ch/event/855454/contributions/4596548/), [ACAT 2021][9]
+* Niclas Eich, et al., [Symmetry aware generation of two-staged particle decays in high-energy physics](https://indico.cern.ch/event/855454/contributions/4596526/), [ACAT 2021][9]
+* Josina Schulte, [Conditional invertible neural networks to probe cosmic-ray sources](https://indico.cern.ch/event/980214/contributions/4413723/), [ML4Jets 2021][8]
+* Jonas Glombitza, [Deep learning-based algorithms in astroparticle physics](https://indico.quarks.ru/event/2020/timetable/?view=standard#150-deep-learning-based-algori), [QUARKS 2020](https://indico.quarks.ru/event/2020/timetable/?view=standard)
+* Niclas Eich, [A generator cell for LHC event GANs](https://indico.cern.ch/event/809820/contributions/3632584/), [ML4Jets 2020][5]
+* Peter Fackeldey, [Knowledge sharing on deep learning in physics research using VISPA](https://indico.cern.ch/event/773049/contributions/3473319/), [EPJ Web of Conf. 245 (2020) 05040](https://doi.org/10.1051/epjconf/202024505040), [CHEP 2019][1]
+* Dennis Noll, [Reinforcement learning for sorting jets in top pair associated Higgs boson production](https://indico.cern.ch/event/773049/contributions/3476070/), [CHEP 2019][1] 
 * William Korcari: [Shared Data and Algorithms for Deep Learning in Fundamental Physics](https://indico.cern.ch/event/980214/contributions/4413659/), [ML4Jets 2021][8]
 * René Caspart: [Transparent Integration of Opportunistic Resources into the WLCG Compute Infrastructure](https://indico.cern.ch/event/948465/contributions/4324019/), [vCHEP 2021][7]
 * R. Florian von Cube: [Opportunistic transparent extension of a WLCG Tier 2 center using HPC resources](https://indico.cern.ch/event/948465/contributions/4324021/), [vCHEP 2021][7]
