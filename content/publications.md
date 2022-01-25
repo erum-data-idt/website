@@ -88,11 +88,8 @@ P06006](https://dx.doi.org/10.1088/1748-0221/14/06/P06006),
 * Benjamin Fischer, et al., [Adversarial Neural Network based shape calibrations of observables for jet-tagging at CMS](https://indico.cern.ch/event/855454/contributions/4596548/), [ACAT 2021][9]
 * Niclas Eich, et al., [Symmetry aware generation of two-staged particle decays in high-energy physics](https://indico.cern.ch/event/855454/contributions/4596526/), [ACAT 2021][9]
 * Josina Schulte, [Conditional invertible neural networks to probe cosmic-ray sources](https://indico.cern.ch/event/980214/contributions/4413723/), [ML4Jets 2021][8]
-* Jonas Glombitza, [Deep learning-based algorithms in astroparticle physics](https://indico.quarks.ru/event/2020/timetable/?view=standard#150-deep-learning-based-algori), [QUARKS 2020](https://indico.quarks.ru/event/2020/timetable/?view=standard)
-* Niclas Eich, [A generator cell for LHC event GANs](https://indico.cern.ch/event/809820/contributions/3632584/), [ML4Jets 2020][5]
-* Peter Fackeldey, [Knowledge sharing on deep learning in physics research using VISPA](https://indico.cern.ch/event/773049/contributions/3473319/), [EPJ Web of Conf. 245 (2020) 05040](https://doi.org/10.1051/epjconf/202024505040), [CHEP 2019][1]
-* Dennis Noll, [Reinforcement learning for sorting jets in top pair associated Higgs boson production](https://indico.cern.ch/event/773049/contributions/3476070/), [CHEP 2019][1] 
 * William Korcari: [Shared Data and Algorithms for Deep Learning in Fundamental Physics](https://indico.cern.ch/event/980214/contributions/4413659/), [ML4Jets 2021][8]
+* Jonas Glombitza, [Deep learning-based algorithms in astroparticle physics](https://indico.quarks.ru/event/2020/timetable/?view=standard#150-deep-learning-based-algori), [QUARKS 2020](https://indico.quarks.ru/event/2020/timetable/?view=standard)
 * René Caspart: [Transparent Integration of Opportunistic Resources into the WLCG Compute Infrastructure](https://indico.cern.ch/event/948465/contributions/4324019/), [vCHEP 2021][7]
 * R. Florian von Cube: [Opportunistic transparent extension of a WLCG Tier 2 center using HPC resources](https://indico.cern.ch/event/948465/contributions/4324021/), [vCHEP 2021][7]
 * Erik Buhmann: [Decoding Photons: Physics in the Latent Space of a BIB-AE Generative Network](https://indico.cern.ch/event/948465/contributions/4324139/), [vCHEP 2021][7]
@@ -103,6 +100,7 @@ P06006](https://dx.doi.org/10.1088/1748-0221/14/06/P06006),
 * Hosein Hashemi: [Pixel Detector Background Generation using Generative Adversarial Networks at Belle II](https://indico.cern.ch/event/852553/contributions/4059068/), [IML Workshop 2020][6]
 * Nikolai Hartmann: [Selective background MC simulation with graph neural networks at Belle II](https://indico.cern.ch/event/852553/contributions/4059072/), [IML Workshop 2020][6]
 * Engin Eren: [High Fidelity Simulation of  High Granularity Calorimeters  with High Speed](https://indico.cern.ch/event/852553/contributions/4059796/), [IML Workshop 2020][6]
+* Niclas Eich, [A generator cell for LHC event GANs](https://indico.cern.ch/event/809820/contributions/3632584/), [ML4Jets 2020][5]
 * Erik Buhmann: [Deep Learning based Energy Reconstruction for the CALICE AHCAL](https://indico.cern.ch/event/809820/contributions/3632646/), [ML4Jets 2020][5]
 * Engin Eren: [Generative Models For High Granularity Calorimeters](https://indico.cern.ch/event/809820/contributions/3632586/), [ML4Jets 2020][5]
 * Horst Stöcker: [MAGIC-Matter in Astrophysics, Gravitational waves, and Ion Collisions](https://indico.ihep.ac.cn/event/9872/session/4/contribution/213), [The 17th National Conference on Nuclear Physics and the 13th Member Congress](https://indico.ihep.ac.cn/event/9872/)
@@ -113,6 +111,8 @@ P06006](https://dx.doi.org/10.1088/1748-0221/14/06/P06006),
 * Jan Steinheimer: [Effects of Statistical Particlization and Hadronic Rescattering on Fluctuations and Correlations](https://theory.gsi.de/hirschegg/2019/talks/Thu/Steinheimer.pdf), [Hirschegg 2019][4]
 * Kai Zhou: [Perspectives of Deep learning techniques in Lattice 1+1d Scalar Field Theory](https://theory.gsi.de/hirschegg/2019/talks/Tue/Zhou.pdf), [Hirschegg 2019][4]
 * Kai Zhou: [Regressive and generative neural networks for scalar field theory](https://events.fias.science/event/21/contribution/37), [AI for Science 2019](https://events.fias.science/event/21/)
+* Peter Fackeldey, [Knowledge sharing on deep learning in physics research using VISPA](https://indico.cern.ch/event/773049/contributions/3473319/), [EPJ Web of Conf. 245 (2020) 05040](https://doi.org/10.1051/epjconf/202024505040), [CHEP 2019][1]
+* Dennis Noll, [Reinforcement learning for sorting jets in top pair associated Higgs boson production](https://indico.cern.ch/event/773049/contributions/3476070/), [CHEP 2019][1]
 * Manuel Giffels: [Effective Dynamic Integration and Utilization of Heterogenous Compute Resources](https://indi.to/wF9mw), [CHEP 2019][1]
 * Max Fischer: [Lightweight dynamic integration of opportunistic resources](https://indi.to/jxVtY), [CHEP 2019][1]
 * Christian Schmitt: [Highly Performant, Deep Neural Networks with sub-microsecond latency on FPGAs for Trigger Applications](https://indico.cern.ch/event/773049/contributions/3474319/attachments/1939652/3215560/2019_11_07_CHEP.pdf), [CHEP 2019][1]
