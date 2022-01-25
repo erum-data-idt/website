@@ -13,7 +13,7 @@
 * L. Wang, S. Shi and K. Zhou, Reconstructing spectral functions via automatic differentiation, [arXiv:2111.14760](https://arxiv.org/abs/2111.14760)
 * Y.S. Zhao, L. Wang, K. Zhou and X.G. Huang, Detecting Chiral Magnetic Effect via Deep Learning, [arXiv:2105.13761](https://arxiv.org/abs/2105.13761)
 * Y. Wang, F. Li, Q. Li, H. Lue and K. Zhou, Finding signatures of the nuclear symmetry energy in heavy-ion collisions with deep learning, [Phys. Lett. B 822(2021)136669](https://doi.org/10.1016/j.physletb.2021.136669)
-* S. Shi, K. Zhou, J. Zhao, S. Mukherjee and P. Zhuang, Heavy Quark potential in quark-gluon plasma: deep neural networks meets lattice quantum chromodynamics, [arXiv:2105.07862](https://arxiv.org/abs/2105.07862)
+* S. Shi, K. Zhou, J. Zhao, S. Mukherjee and P. Zhuang, Heavy Quark potential in quark-gluon plasma: deep neural networks meets lattice quantum chromodynamics, [Phys. Rev. D 105(2022), 014017](https://doi.org/10.1103/PhysRevD.105.014017)
 * L. Jiang, L. Wang and K. Zhou, Deep learning stochastic processes with QCD phase transition, [Phy. Rev. D103(2021)11,116023](https://doi.org/10.1103/PhysRevD.103.116023)
 * K. Taradiy, K. Zhou, J. Steinheimer, R. V.Poberezhnyuk, V. Vovchenko and H. Stoecker, Machine learning based approach to fluid dynamics, [arXiv:2106.02841](https://arxiv.org/abs/arXiv:2106.02841)
 * M. O.K, J. Steinheimer, K. Zhou, A. Redelbach and H. Stoecker, Deep learning based impact parameter determination for the CBM experiment, [Particles 4(2021)1, 47-52](https://doi.org/10.3390/particles4010006)
