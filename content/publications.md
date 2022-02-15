@@ -6,6 +6,9 @@
 
 ## Publications
 
+* F. Bührer, F. Fischer, G. Fleig, A. Gamel, M. Giffels, T. Hauth, M. Janczyk, K. Meier, G. Quast, B. Roland, U. Schnoor, M. Schumacher, D. von Suchodoletz and B. Wiebelt, Dynamic Virtualized Deployment of Particle Physics Environments on a High Performance Computing Cluster, [Comput Softw Big Sci 3, 9 (2019)](https://doi.org/10.1007/s41781-019-0024-5), [arXiv:1812.11044](https://arxiv.org/abs/1812.11044)
+* Max Fischer, Eileen Kuehn, Manuel Giffels, Matthias Schnepf, Stefan Kroboth and Oliver Freyermuth COBalD - The opportunistic balancing daemon, [10.5281/zenodo.1887872, April 2020](http://dx.doi.org/10.5281/zenodo.1887872)
+* Manuel Giffels, Matthias Schnepf, Eileen Kuehn, Stefan Kroboth, Rene Caspart, Ralf Florian von Cube, Max Fischer and Peter Wieneman TARDIS - Transparent Adaptive Resource Dynamic Integration System, [10.5281/zenodo.2240605, Juni 2020](https://doi.org/10.5281/zenodo.2240605)
 * T. Bister, M. Erdmann, U. Köthe, J. Schulte, Inference of cosmic-ray source properties by conditional invertible neural networks, [arXiv:2110.09493](https://arxiv.org/abs/2110.09493)
 * M. Erdmann, J. Glombitza, G. Kasieczka, U. Klemradt, Deep Learning for Physics Research, World Scientific, [ISBN: 978-981-123-745-4](https://doi.org/10.1142/12294), [www.deeplearningphysics.org](http://www.deeplearningphysics.org)
 * The Pierre Auger Collaboration, Deep-Learning based Reconstruction of the Shower Maximum Xmax using the Water-Cherenkov Detectors of the Pierre Auger Observatory, [2021 JINST 16 P07019](https://doi.org/10.1088/1748-0221/16/07/P07019)
@@ -80,7 +83,19 @@ P06006](https://dx.doi.org/10.1088/1748-0221/14/06/P06006),
 [8]: https://indico.cern.ch/event/980214/
 <!-- ACAT 2021 -->
 [9]: https://indico.cern.ch/event/855454/
+<!-- bwHPC Symposium 2021 -->
+[10]: https://indico.scc.kit.edu/event/2399/
+<!-- DPG Dortmund 2021 -->
+[11]: https://dortmund21.dpg-tagungen.de
+<!-- DPG Aachen 2019 -->
+[12]: https://aachen19.dpg-tagungen.de
 
+* Dirk Sammel, [How to bring HTC to HPC resources - A caching solution for the ATLAS Computing environment in Freiburg](https://indico.scc.kit.edu/event/2399/contributions/9208/), [bwHPC Symposium 2021][10]
+* Stefan Kroboth, [Opportunistic extension of a local compute cluster with NEMO resources for HEP workflows](https://indico.scc.kit.edu/event/2399/contributions/9207/), [bwHPC Symposium 2021][10]
+* Dirk Sammel, Implementation and benchmarking of a caching solution in the ATLAS Freiburg environment, [DPG Dortmund 2021][11]
+* Stefan Kroboth, Performance monitoring of the opportunistic resource NEMO at ATLAS-BFG, [DPG Dortmund 2021][11]
+* Benjamin Rottler, Integrating Dynafed into the ATLAS workflow, [DPG Aachen 2019][12]
+* Benoit Roland, Benchmarking of compute resources, [DPG Aachen 2019][12]
 * Peter Fackeldey, et al, [Going fast on a small-size computing cluster](https://indico.cern.ch/event/855454/contributions/4605009/), [ACAT 2021][9]
 * Teresa Bister, et al, [Inference of astrophysical parameters with a conditional Invertible Neural Network](https://indico.cern.ch/event/855454/contributions/4603623/), [ACAT 2021][9]
 * Martin Erdmann, et al., [Autoencoder-extended Conditional Invertible Neural Networks for Unfolding Signal Traces](https://indico.cern.ch/event/855454/contributions/4598446/), [ACAT 2021][9]
