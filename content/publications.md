@@ -6,9 +6,6 @@
 
 ## Publications
 
-* F. Bührer, F. Fischer, G. Fleig, A. Gamel, M. Giffels, T. Hauth, M. Janczyk, K. Meier, G. Quast, B. Roland, U. Schnoor, M. Schumacher, D. von Suchodoletz and B. Wiebelt, Dynamic Virtualized Deployment of Particle Physics Environments on a High Performance Computing Cluster, [Comput Softw Big Sci 3, 9 (2019)](https://doi.org/10.1007/s41781-019-0024-5), [arXiv:1812.11044](https://arxiv.org/abs/1812.11044)
-* Max Fischer, Eileen Kuehn, Manuel Giffels, Matthias Schnepf, Stefan Kroboth and Oliver Freyermuth COBalD - The opportunistic balancing daemon, [10.5281/zenodo.1887872, April 2020](http://dx.doi.org/10.5281/zenodo.1887872)
-* Manuel Giffels, Matthias Schnepf, Eileen Kuehn, Stefan Kroboth, Rene Caspart, Ralf Florian von Cube, Max Fischer and Peter Wieneman TARDIS - Transparent Adaptive Resource Dynamic Integration System, [10.5281/zenodo.2240605, Juni 2020](https://doi.org/10.5281/zenodo.2240605)
 * T. Bister, M. Erdmann, U. Köthe, J. Schulte, Inference of cosmic-ray source properties by conditional invertible neural networks, [arXiv:2110.09493](https://arxiv.org/abs/2110.09493)
 * M. Erdmann, J. Glombitza, G. Kasieczka, U. Klemradt, Deep Learning for Physics Research, World Scientific, [ISBN: 978-981-123-745-4](https://doi.org/10.1142/12294), [www.deeplearningphysics.org](http://www.deeplearningphysics.org)
 * The Pierre Auger Collaboration, Deep-Learning based Reconstruction of the Shower Maximum Xmax using the Water-Cherenkov Detectors of the Pierre Auger Observatory, [2021 JINST 16 P07019](https://doi.org/10.1088/1748-0221/16/07/P07019)
@@ -23,6 +20,8 @@
 * L. Jiang, L. Wang and K. Zhou, Deep learning stochastic processes with QCD phase transition, [Phy. Rev. D103(2021)11,116023](https://doi.org/10.1103/PhysRevD.103.116023)
 * K. Taradiy, K. Zhou, J. Steinheimer, R. V.Poberezhnyuk, V. Vovchenko and H. Stoecker, Machine learning based approach to fluid dynamics, [arXiv:2106.02841](https://arxiv.org/abs/arXiv:2106.02841)
 * M. O.K, J. Steinheimer, K. Zhou, A. Redelbach and H. Stoecker, Deep learning based impact parameter determination for the CBM experiment, [Particles 4(2021)1, 47-52](https://doi.org/10.3390/particles4010006)
+* Max Fischer, Eileen Kuehn, Manuel Giffels, Matthias Schnepf, Stefan Kroboth and Oliver Freyermuth COBalD - The opportunistic balancing daemon, [10.5281/zenodo.1887872, April 2020](http://dx.doi.org/10.5281/zenodo.1887872)
+* Manuel Giffels, Matthias Schnepf, Eileen Kuehn, Stefan Kroboth, Rene Caspart, Ralf Florian von Cube, Max Fischer and Peter Wieneman TARDIS - Transparent Adaptive Resource Dynamic Integration System, [10.5281/zenodo.2240605, Juni 2020](https://doi.org/10.5281/zenodo.2240605)
 * M. O.K, J. Steinheimer, K. Zhou, A. Redelbach and H. Stoecker, A fast centrality-meter for heavy-ion collisions at the CBM experiment, [Phys. Lett. B 811(2020) 135872](https://doi.org/10.1016/j.physletb.2020.135872)
 * P. Thaprasop, K. Zhou, J. Steinheimer and C. Herold, Unsupervised Outlier detection in heavy-ion collisions, [Phys. Scripta 96(2021)6, 064003](https://doi.org/10.1088/1402-4896/abf214)
 * L. Benato, E. Buhmann, M. Erdmann, P. Fackeldey, J. Glombitza, N. Hartmann, G.
@@ -39,6 +38,7 @@ Calorimeters with High Speed, [arXiv:2005.05334](https://arxiv.org/abs/2005.0533
 N. Wang and H. Stöcker, Identifying the nature of the QCD transition in
 relativistic collision of heavy nuclei with deep learning, [arXiv:1910.11530
 [hep-ph]](https://arxiv.org/abs/1910.11530)
+* F. Bührer, F. Fischer, G. Fleig, A. Gamel, M. Giffels, T. Hauth, M. Janczyk, K. Meier, G. Quast, B. Roland, U. Schnoor, M. Schumacher, D. von Suchodoletz and B. Wiebelt, Dynamic Virtualized Deployment of Particle Physics Environments on a High Performance Computing Cluster, [Comput Softw Big Sci 3, 9 (2019)](https://doi.org/10.1007/s41781-019-0024-5), [arXiv:1812.11044](https://arxiv.org/abs/1812.11044)
 * J. Steinheimer, L. Pang, K. Zhou, V. Koch, J. Randrup and H. Stoecker, A
 machine learning study to identify spinodal clumping in high energy nuclear
 collisions, [JHEP 1912, 122 (2019)](https://doi.org/10.1007/JHEP12(2019)122)
@@ -94,8 +94,6 @@ P06006](https://dx.doi.org/10.1088/1748-0221/14/06/P06006),
 * Stefan Kroboth, [Opportunistic extension of a local compute cluster with NEMO resources for HEP workflows](https://indico.scc.kit.edu/event/2399/contributions/9207/), [bwHPC Symposium 2021][10]
 * Dirk Sammel, Implementation and benchmarking of a caching solution in the ATLAS Freiburg environment, [DPG Dortmund 2021][11]
 * Stefan Kroboth, Performance monitoring of the opportunistic resource NEMO at ATLAS-BFG, [DPG Dortmund 2021][11]
-* Benjamin Rottler, Integrating Dynafed into the ATLAS workflow, [DPG Aachen 2019][12]
-* Benoit Roland, Benchmarking of compute resources, [DPG Aachen 2019][12]
 * Peter Fackeldey, et al, [Going fast on a small-size computing cluster](https://indico.cern.ch/event/855454/contributions/4605009/), [ACAT 2021][9]
 * Teresa Bister, et al, [Inference of astrophysical parameters with a conditional Invertible Neural Network](https://indico.cern.ch/event/855454/contributions/4603623/), [ACAT 2021][9]
 * Martin Erdmann, et al., [Autoencoder-extended Conditional Invertible Neural Networks for Unfolding Signal Traces](https://indico.cern.ch/event/855454/contributions/4598446/), [ACAT 2021][9]
@@ -120,6 +118,8 @@ P06006](https://dx.doi.org/10.1088/1748-0221/14/06/P06006),
 * Engin Eren: [Generative Models For High Granularity Calorimeters](https://indico.cern.ch/event/809820/contributions/3632586/), [ML4Jets 2020][5]
 * Horst Stöcker: [MAGIC-Matter in Astrophysics, Gravitational waves, and Ion Collisions](https://indico.ihep.ac.cn/event/9872/session/4/contribution/213), [The 17th National Conference on Nuclear Physics and the 13th Member Congress](https://indico.ihep.ac.cn/event/9872/)
 * Horst Stöcker: [MAGIC-Matter in Astrophysics, Gravitational waves, and Ion Collisions](https://indico.cern.ch/event/820556/attachments/1946000/3260382/CCNU_nov_11mikloslarry70_compressed.pdf), [Symposium on Contemporary QCD Physics and Relativistic Nuclear Collisions](https://indico.cern.ch/event/820556/)
+* Benjamin Rottler, Integrating Dynafed into the ATLAS workflow, [DPG Aachen 2019][12]
+* Benoit Roland, Benchmarking of compute resources, [DPG Aachen 2019][12]
 * Jan Steinheimer: [A machine learning study to identify spinodal clumping in high energy nuclear collisions](https://indi.to/drt7X), [Quark Matter 2019][3]
 * Kai Zhou: [Regressive and generative neural networks for scalar field theory](https://indi.to/Jh8Vc), [Quark Matter 2019][3]
 * Kai Zhou: [Perspectives of Deep learning techniques in Lattice 1+1d Scalar Field Theory](https://indi.to/bdsx6), [AISIS 2019](https://indico.cern.ch/event/781223)
