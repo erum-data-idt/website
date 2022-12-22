@@ -89,7 +89,10 @@ P06006](https://dx.doi.org/10.1088/1748-0221/14/06/P06006),
 [11]: https://dortmund21.dpg-tagungen.de
 <!-- DPG Aachen 2019 -->
 [12]: https://aachen19.dpg-tagungen.de
+<!-- ML4Jets 2022 -->
+[13]: https://indico.cern.ch/event/1159913/
 
+* Hosein Hashemi: [IEA-GAN: Intra-Event Aware GAN with Relational Reasoning for the Fast Detector Simuluation](https://indico.cern.ch/event/1159913/contributions/5062737/), [ML4Jets 2022][13]
 * Dirk Sammel, [How to bring HTC to HPC resources - A caching solution for the ATLAS Computing environment in Freiburg](https://indico.scc.kit.edu/event/2399/contributions/9208/), [bwHPC Symposium 2021][10]
 * Stefan Kroboth, [Opportunistic extension of a local compute cluster with NEMO resources for HEP workflows](https://indico.scc.kit.edu/event/2399/contributions/9207/), [bwHPC Symposium 2021][10]
 * Dirk Sammel, Implementation and benchmarking of a caching solution in the ATLAS Freiburg environment, [DPG Dortmund 2021][11]
@@ -139,6 +142,7 @@ P06006](https://dx.doi.org/10.1088/1748-0221/14/06/P06006),
 
 ## Posters
 
+* Hosein Hashemi: [Intra-Event Aware Imitation Game for Fast Detector Simulation](https://neurips.cc/media/PosterPDFs/NeurIPS%202022/56888.png), [NeurIPS ML4PS 2022](https://ml4physicalsciences.github.io/2022/)
 * [Generative models for particle shower simulation in fundamental physics](https://simdl.github.io/files/31.pdf), Deep Learning for Simulation @ ICLR
 * Max Fischer: [Distributed Caching in the WLCG](https://indi.to/K3HD6), [CHEP 2019][1]
 * Marcelo Vogel: [Standalone containers with ATLAS offline software](https://indico.cern.ch/event/773049/contributions/3473850), [CHEP 2019][1]
